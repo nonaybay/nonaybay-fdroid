@@ -1,0 +1,1 @@
+{"repo": {"timestamp": 1642197448000, "version": 20000, "name": "nonaybay googled", "icon": "icon.png", "address": "https://github.com/nonaybay/nonaybay-fdroid", "description": "Contains Google", "mirrors": ["https://raw.githubusercontent.com/nonaybay/nonaybay-fdroid/master/fdroid/repo"]}, "requests": {"install": [], "uninstall": []}, "apps": [], "packages": {}}
